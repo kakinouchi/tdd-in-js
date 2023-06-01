@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kakinouchi/tdd-in-js/issues"
   },
-  "homepage": "https://github.com/kakinouchi/tdd-in-js#readme"
+  "homepage": "https://github.com/kakinouchi/tdd-in-js#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
 }
